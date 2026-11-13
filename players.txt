@@ -1,0 +1,5 @@
+Valdemar;280;Rusty Dagger,Health Potion,Health Potion,Rusty Dagger,Wooden Shield,Health Potion
+Oliver;500;
+Kasper;1000;
+Jonas;900;Rusty Dagger
+Hans;48900;Steel Sword,Health Potion
